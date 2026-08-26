@@ -2,7 +2,7 @@ namespace practica1.Ej1;
 
 public class Persona
 {
-    public string Nombre { get; set; }
+    public string Nombre {get; set;}
 
     public Persona(string nombre)
     {
